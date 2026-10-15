@@ -1,0 +1,107 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\erjie_dmjyixu\\DAM\\3.DesarrolloDeInterfaces\\2.Ejercicios\\WsEjercicios\\Learning\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BEC61710-CAB3-40B9-A36E-8F7D30A5144F}|Learning\\Learning.csproj|c:\\users\\erjie_dmjyixu\\dam\\3.desarrollodeinterfaces\\2.ejercicios\\wsejercicios\\learning\\learning\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BEC61710-CAB3-40B9-A36E-8F7D30A5144F}|Learning\\Learning.csproj|solutionrelative:learning\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEC61710-CAB3-40B9-A36E-8F7D30A5144F}|Learning\\Learning.csproj|c:\\users\\erjie_dmjyixu\\dam\\3.desarrollodeinterfaces\\2.ejercicios\\wsejercicios\\learning\\learning\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{BEC61710-CAB3-40B9-A36E-8F7D30A5144F}|Learning\\Learning.csproj|solutionrelative:learning\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEC61710-CAB3-40B9-A36E-8F7D30A5144F}|Learning\\Learning.csproj|c:\\users\\erjie_dmjyixu\\dam\\3.desarrollodeinterfaces\\2.ejercicios\\wsejercicios\\learning\\learning\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEC61710-CAB3-40B9-A36E-8F7D30A5144F}|Learning\\Learning.csproj|solutionrelative:learning\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEC61710-CAB3-40B9-A36E-8F7D30A5144F}|Learning\\Learning.csproj|c:\\users\\erjie_dmjyixu\\dam\\3.desarrollodeinterfaces\\2.ejercicios\\wsejercicios\\learning\\learning\\gestordetemas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEC61710-CAB3-40B9-A36E-8F7D30A5144F}|Learning\\Learning.csproj|solutionrelative:learning\\gestordetemas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEC61710-CAB3-40B9-A36E-8F7D30A5144F}|Learning\\Learning.csproj|C:\\Users\\erjie_dmjyixu\\DAM\\3.DesarrolloDeInterfaces\\2.Ejercicios\\WsEjercicios\\Learning\\learning\\properties\\darktheme.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{BEC61710-CAB3-40B9-A36E-8F7D30A5144F}|Learning\\Learning.csproj|solutionrelative:learning\\properties\\darktheme.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\erjie_dmjyixu\\DAM\\3.DesarrolloDeInterfaces\\2.Ejercicios\\WsEjercicios\\Learning\\Learning\\Form1.cs",
+              "RelativeDocumentMoniker": "Learning\\Form1.cs",
+              "ToolTip": "C:\\Users\\erjie_dmjyixu\\DAM\\3.DesarrolloDeInterfaces\\2.Ejercicios\\WsEjercicios\\Learning\\Learning\\Form1.cs",
+              "RelativeToolTip": "Learning\\Form1.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T15:25:45.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\erjie_dmjyixu\\DAM\\3.DesarrolloDeInterfaces\\2.Ejercicios\\WsEjercicios\\Learning\\Learning\\Form1.cs",
+              "RelativeDocumentMoniker": "Learning\\Form1.cs",
+              "ToolTip": "C:\\Users\\erjie_dmjyixu\\DAM\\3.DesarrolloDeInterfaces\\2.Ejercicios\\WsEjercicios\\Learning\\Learning\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Learning\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T15:25:37.217Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\erjie_dmjyixu\\DAM\\3.DesarrolloDeInterfaces\\2.Ejercicios\\WsEjercicios\\Learning\\Learning\\App.config",
+              "RelativeDocumentMoniker": "Learning\\App.config",
+              "ToolTip": "C:\\Users\\erjie_dmjyixu\\DAM\\3.DesarrolloDeInterfaces\\2.Ejercicios\\WsEjercicios\\Learning\\Learning\\App.config",
+              "RelativeToolTip": "Learning\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-03-06T15:01:08.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DarkTheme.resx",
+              "DocumentMoniker": "C:\\Users\\erjie_dmjyixu\\DAM\\3.DesarrolloDeInterfaces\\2.Ejercicios\\WsEjercicios\\Learning\\Learning\\Properties\\DarkTheme.resx",
+              "RelativeDocumentMoniker": "Learning\\Properties\\DarkTheme.resx",
+              "ToolTip": "C:\\Users\\erjie_dmjyixu\\DAM\\3.DesarrolloDeInterfaces\\2.Ejercicios\\WsEjercicios\\Learning\\Learning\\Properties\\DarkTheme.resx",
+              "RelativeToolTip": "Learning\\Properties\\DarkTheme.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-03-06T10:33:32.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GestorDeTemas.cs",
+              "DocumentMoniker": "C:\\Users\\erjie_dmjyixu\\DAM\\3.DesarrolloDeInterfaces\\2.Ejercicios\\WsEjercicios\\Learning\\Learning\\GestorDeTemas.cs",
+              "RelativeDocumentMoniker": "Learning\\GestorDeTemas.cs",
+              "ToolTip": "C:\\Users\\erjie_dmjyixu\\DAM\\3.DesarrolloDeInterfaces\\2.Ejercicios\\WsEjercicios\\Learning\\Learning\\GestorDeTemas.cs",
+              "RelativeToolTip": "Learning\\GestorDeTemas.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T10:29:02.653Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

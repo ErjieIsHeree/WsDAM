@@ -1,0 +1,12 @@
+C:\Users\erjie_dmjyixu\DAM\3.DesarrolloDeInterfaces\2.Ejercicios\WsEjercicios\Learning\Learning\bin\Debug\Learning.exe.config
+C:\Users\erjie_dmjyixu\DAM\3.DesarrolloDeInterfaces\2.Ejercicios\WsEjercicios\Learning\Learning\bin\Debug\Learning.exe
+C:\Users\erjie_dmjyixu\DAM\3.DesarrolloDeInterfaces\2.Ejercicios\WsEjercicios\Learning\Learning\bin\Debug\Learning.pdb
+C:\Users\erjie_dmjyixu\DAM\3.DesarrolloDeInterfaces\2.Ejercicios\WsEjercicios\Learning\Learning\obj\Debug\Learning.csproj.AssemblyReference.cache
+C:\Users\erjie_dmjyixu\DAM\3.DesarrolloDeInterfaces\2.Ejercicios\WsEjercicios\Learning\Learning\obj\Debug\Learning.Window.resources
+C:\Users\erjie_dmjyixu\DAM\3.DesarrolloDeInterfaces\2.Ejercicios\WsEjercicios\Learning\Learning\obj\Debug\Learning.Properties.DarkTheme.resources
+C:\Users\erjie_dmjyixu\DAM\3.DesarrolloDeInterfaces\2.Ejercicios\WsEjercicios\Learning\Learning\obj\Debug\Learning.Properties.WhiteTheme.resources
+C:\Users\erjie_dmjyixu\DAM\3.DesarrolloDeInterfaces\2.Ejercicios\WsEjercicios\Learning\Learning\obj\Debug\Learning.Properties.Resources.resources
+C:\Users\erjie_dmjyixu\DAM\3.DesarrolloDeInterfaces\2.Ejercicios\WsEjercicios\Learning\Learning\obj\Debug\Learning.csproj.GenerateResource.cache
+C:\Users\erjie_dmjyixu\DAM\3.DesarrolloDeInterfaces\2.Ejercicios\WsEjercicios\Learning\Learning\obj\Debug\Learning.csproj.CoreCompileInputs.cache
+C:\Users\erjie_dmjyixu\DAM\3.DesarrolloDeInterfaces\2.Ejercicios\WsEjercicios\Learning\Learning\obj\Debug\Learning.exe
+C:\Users\erjie_dmjyixu\DAM\3.DesarrolloDeInterfaces\2.Ejercicios\WsEjercicios\Learning\Learning\obj\Debug\Learning.pdb

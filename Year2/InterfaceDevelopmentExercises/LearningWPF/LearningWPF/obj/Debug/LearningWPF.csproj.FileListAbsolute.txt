@@ -1,0 +1,16 @@
+C:\Users\erjie_dmjyixu\DAM\3.DesarrolloDeInterfaces\2.Ejercicios\WsEjercicios\LearningWPF\LearningWPF\bin\Debug\LearningWPF.exe.config
+C:\Users\erjie_dmjyixu\DAM\3.DesarrolloDeInterfaces\2.Ejercicios\WsEjercicios\LearningWPF\LearningWPF\bin\Debug\LearningWPF.exe
+C:\Users\erjie_dmjyixu\DAM\3.DesarrolloDeInterfaces\2.Ejercicios\WsEjercicios\LearningWPF\LearningWPF\bin\Debug\LearningWPF.pdb
+C:\Users\erjie_dmjyixu\DAM\3.DesarrolloDeInterfaces\2.Ejercicios\WsEjercicios\LearningWPF\LearningWPF\obj\Debug\LearningWPF.csproj.AssemblyReference.cache
+C:\Users\erjie_dmjyixu\DAM\3.DesarrolloDeInterfaces\2.Ejercicios\WsEjercicios\LearningWPF\LearningWPF\obj\Debug\MainWindow.g.cs
+C:\Users\erjie_dmjyixu\DAM\3.DesarrolloDeInterfaces\2.Ejercicios\WsEjercicios\LearningWPF\LearningWPF\obj\Debug\App.g.cs
+C:\Users\erjie_dmjyixu\DAM\3.DesarrolloDeInterfaces\2.Ejercicios\WsEjercicios\LearningWPF\LearningWPF\obj\Debug\LearningWPF_MarkupCompile.cache
+C:\Users\erjie_dmjyixu\DAM\3.DesarrolloDeInterfaces\2.Ejercicios\WsEjercicios\LearningWPF\LearningWPF\obj\Debug\LearningWPF_MarkupCompile.lref
+C:\Users\erjie_dmjyixu\DAM\3.DesarrolloDeInterfaces\2.Ejercicios\WsEjercicios\LearningWPF\LearningWPF\obj\Debug\MainWindow.baml
+C:\Users\erjie_dmjyixu\DAM\3.DesarrolloDeInterfaces\2.Ejercicios\WsEjercicios\LearningWPF\LearningWPF\obj\Debug\LearningWPF.g.resources
+C:\Users\erjie_dmjyixu\DAM\3.DesarrolloDeInterfaces\2.Ejercicios\WsEjercicios\LearningWPF\LearningWPF\obj\Debug\LearningWPF.Properties.DarkTheme.resources
+C:\Users\erjie_dmjyixu\DAM\3.DesarrolloDeInterfaces\2.Ejercicios\WsEjercicios\LearningWPF\LearningWPF\obj\Debug\LearningWPF.Properties.WhiteTheme.resources
+C:\Users\erjie_dmjyixu\DAM\3.DesarrolloDeInterfaces\2.Ejercicios\WsEjercicios\LearningWPF\LearningWPF\obj\Debug\LearningWPF.csproj.GenerateResource.cache
+C:\Users\erjie_dmjyixu\DAM\3.DesarrolloDeInterfaces\2.Ejercicios\WsEjercicios\LearningWPF\LearningWPF\obj\Debug\LearningWPF.csproj.CoreCompileInputs.cache
+C:\Users\erjie_dmjyixu\DAM\3.DesarrolloDeInterfaces\2.Ejercicios\WsEjercicios\LearningWPF\LearningWPF\obj\Debug\LearningWPF.exe
+C:\Users\erjie_dmjyixu\DAM\3.DesarrolloDeInterfaces\2.Ejercicios\WsEjercicios\LearningWPF\LearningWPF\obj\Debug\LearningWPF.pdb

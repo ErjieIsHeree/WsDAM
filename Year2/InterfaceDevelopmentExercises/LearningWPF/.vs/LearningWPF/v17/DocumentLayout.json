@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\erjie_dmjyixu\\DAM\\3.DesarrolloDeInterfaces\\2.Ejercicios\\WsEjercicios\\LearningWPF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7E1F021B-C6E0-4FC6-9AC7-BEA0FB31E2F5}|LearningWPF\\LearningWPF.csproj|c:\\users\\erjie_dmjyixu\\dam\\3.desarrollodeinterfaces\\2.ejercicios\\wsejercicios\\learningwpf\\learningwpf\\thememanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E1F021B-C6E0-4FC6-9AC7-BEA0FB31E2F5}|LearningWPF\\LearningWPF.csproj|solutionrelative:learningwpf\\thememanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E1F021B-C6E0-4FC6-9AC7-BEA0FB31E2F5}|LearningWPF\\LearningWPF.csproj|c:\\users\\erjie_dmjyixu\\dam\\3.desarrollodeinterfaces\\2.ejercicios\\wsejercicios\\learningwpf\\learningwpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E1F021B-C6E0-4FC6-9AC7-BEA0FB31E2F5}|LearningWPF\\LearningWPF.csproj|solutionrelative:learningwpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E1F021B-C6E0-4FC6-9AC7-BEA0FB31E2F5}|LearningWPF\\LearningWPF.csproj|c:\\users\\erjie_dmjyixu\\dam\\3.desarrollodeinterfaces\\2.ejercicios\\wsejercicios\\learningwpf\\learningwpf\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{7E1F021B-C6E0-4FC6-9AC7-BEA0FB31E2F5}|LearningWPF\\LearningWPF.csproj|solutionrelative:learningwpf\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E1F021B-C6E0-4FC6-9AC7-BEA0FB31E2F5}|LearningWPF\\LearningWPF.csproj|c:\\users\\erjie_dmjyixu\\dam\\3.desarrollodeinterfaces\\2.ejercicios\\wsejercicios\\learningwpf\\learningwpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7E1F021B-C6E0-4FC6-9AC7-BEA0FB31E2F5}|LearningWPF\\LearningWPF.csproj|solutionrelative:learningwpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\erjie_dmjyixu\\DAM\\3.DesarrolloDeInterfaces\\2.Ejercicios\\WsEjercicios\\LearningWPF\\LearningWPF\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "LearningWPF\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\erjie_dmjyixu\\DAM\\3.DesarrolloDeInterfaces\\2.Ejercicios\\WsEjercicios\\LearningWPF\\LearningWPF\\MainWindow.xaml",
+              "RelativeToolTip": "LearningWPF\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-06T15:57:33.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\erjie_dmjyixu\\DAM\\3.DesarrolloDeInterfaces\\2.Ejercicios\\WsEjercicios\\LearningWPF\\LearningWPF\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "LearningWPF\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\erjie_dmjyixu\\DAM\\3.DesarrolloDeInterfaces\\2.Ejercicios\\WsEjercicios\\LearningWPF\\LearningWPF\\MainWindow.xaml.cs",
+              "RelativeToolTip": "LearningWPF\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T15:02:24.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\erjie_dmjyixu\\DAM\\3.DesarrolloDeInterfaces\\2.Ejercicios\\WsEjercicios\\LearningWPF\\LearningWPF\\App.config",
+              "RelativeDocumentMoniker": "LearningWPF\\App.config",
+              "ToolTip": "C:\\Users\\erjie_dmjyixu\\DAM\\3.DesarrolloDeInterfaces\\2.Ejercicios\\WsEjercicios\\LearningWPF\\LearningWPF\\App.config",
+              "RelativeToolTip": "LearningWPF\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-03-06T15:50:43.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ThemeManager.cs",
+              "DocumentMoniker": "C:\\Users\\erjie_dmjyixu\\DAM\\3.DesarrolloDeInterfaces\\2.Ejercicios\\WsEjercicios\\LearningWPF\\LearningWPF\\ThemeManager.cs",
+              "RelativeDocumentMoniker": "LearningWPF\\ThemeManager.cs",
+              "ToolTip": "C:\\Users\\erjie_dmjyixu\\DAM\\3.DesarrolloDeInterfaces\\2.Ejercicios\\WsEjercicios\\LearningWPF\\LearningWPF\\ThemeManager.cs",
+              "RelativeToolTip": "LearningWPF\\ThemeManager.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwBkAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T15:51:26.738Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

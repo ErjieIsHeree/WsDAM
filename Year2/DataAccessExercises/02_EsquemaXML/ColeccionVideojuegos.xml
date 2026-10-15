@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tns:ColeccionVideojuegos xmlns:tns="http://www.example.org/ColeccionVideojuegos" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.example.org/ColeccionVideojuegos ColeccionVideojuegos.xsd ">
+	<tns:videojuego titulo="Wu kong">
+		<tns:desarrollador>erjie</tns:desarrollador>
+		<tns:plataforma>ps4</tns:plataforma>
+		<tns:anioLanzamiento>2024</tns:anioLanzamiento>
+		<tns:PEGI>18</tns:PEGI>
+		<tns:copiasDisponibles>2000</tns:copiasDisponibles>
+	</tns:videojuego>
+	<tns:videojuego titulo="Brawl Stars">
+		<tns:desarrollador>erjie</tns:desarrollador>
+		<tns:plataforma>movil</tns:plataforma>
+		<tns:anioLanzamiento>2024</tns:anioLanzamiento>
+		<tns:PEGI>18</tns:PEGI>
+		<tns:copiasDisponibles>100</tns:copiasDisponibles>
+	</tns:videojuego>
+	<tns:videojuego titulo="Roblox">
+		<tns:desarrollador>erjie</tns:desarrollador>
+		<tns:plataforma>ps4</tns:plataforma>
+		<tns:anioLanzamiento>2024</tns:anioLanzamiento>
+		<tns:PEGI>18</tns:PEGI>
+		<tns:copiasDisponibles>100</tns:copiasDisponibles>
+	</tns:videojuego>
+	<tns:videojuego titulo="Minecraft">
+		<tns:desarrollador>erjie</tns:desarrollador>
+		<tns:plataforma>movil</tns:plataforma>
+		<tns:anioLanzamiento>2024</tns:anioLanzamiento>
+		<tns:PEGI>18</tns:PEGI>
+		<tns:copiasDisponibles>100</tns:copiasDisponibles>
+	</tns:videojuego></tns:ColeccionVideojuegos>
